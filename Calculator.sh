@@ -1,4 +1,5 @@
 #!/bin/bash -x
+echo "welcome!!"
 read a
 read b
 read c
